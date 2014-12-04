@@ -5,7 +5,7 @@
     <div class="jumbotron">
         <h1>Wealth Report Centre</h1>
         <p class="lead">WRC is a sharepoint application</p>
-        <p><a href="http://w3.wealth.tdbank.ca/reportcenter/WealthReportCentre/Report%20Library/Forms/current.aspx" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
+        <p><a href="http://w3.wealth.dev.tdbank.ca/reportcenter/WRCSIT/ReportLink2/Forms/current.aspx" class="btn btn-primary btn-large">Learn more &raquo;</a></p>
     </div>
 
     <div class="row">
